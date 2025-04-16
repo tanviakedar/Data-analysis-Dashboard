@@ -8,7 +8,7 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 
 ## Dashboard 1:Overview Analysis
 
-## KPI'S
+KPI'S
 1.	Total Bookings – How many trips were booked over a given period?
 2.	Total Booking Value – What is the total revenue generated from all bookings?
 3.	Average Booking Value – What is the average revenue per booking?
@@ -16,7 +16,7 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 5.	Average Trip Distance – How far are customers traveling on average per trip?
 6.	Average Trip Time – What is the average duration of trips?
 
-## Expected Outcomes
+ Expected Outcomes
 ✔ Identify trends in ride bookings and revenue generation.
 ✔ Analyse trip efficiency in terms of distance and duration.
 ✔ Compare booking values and trip patterns across different time periods.
@@ -25,7 +25,7 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 ## Dashboard 2: Time Analysis
 To understand trip patterns based on time, Uber needs to analyse ride demand and trends across different time intervals. This dashboard will help in optimizing operations, pricing, and driver availability.
 
-## Global Dynamic Measure (Filters All Charts)
+Global Dynamic Measure (Filters All Charts)
 A measure selector will be created for:
 ✔ Total Bookings
 ✔ Total Booking Value
@@ -88,4 +88,5 @@ o	Upper East Side North continued to be the leading drop-off destination.
 o	The longest single trip recorded was from Lower East Side to Crown Heights North, covering 144.1 miles.
 7.	Daily Booking Trends
 o	Bookings remained steady with noticeable surges mid-month and at the end of the month, suggesting event-related or behavioral spikes.
+
 
